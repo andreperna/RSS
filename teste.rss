@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+<generator>Easy Feed Editor</generator>
+<title>Teste</title>
+<description>Minha Descri&#231;&#227;o</description>
+<link>meusite</link>
+<language>pt-br</language>
+<pubDate>Tue, 04 Sep 2018 23:39:23 GMT</pubDate>
+<managingEditor>Eu</managingEditor>
+
+<item>
+<title>item 1</title>
+<description><![CDATA[]]></description>
+<guid  isPermaLink="false">ebb1fd8f-f2b5-4b1a-bf3d-7c866ed9a455</guid>
+<pubDate>Tue, 04 Sep 2018 23:38:59 GMT</pubDate>
+<enclosure url="https://www.youtube.com/watch?v=Vwn8RL-wgIE" type="application/octetstream" length="184606" />
+</item>
+</channel>
+</rss>
