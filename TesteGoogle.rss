@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <generator>RSS Builder by B!Soft</generator>
+    <title>Teste Google</title>
+    <link />
+    <description />
+    <language>pt-br</language>
+    <item>
+      <title>Aula 04 - UC por open - Download por View</title>
+      <pubDate>Thu, 3 Oct 2019 14:42:02 -0300</pubDate>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>Aula 03 - UC por Open</title>
+      <pubDate>Thu, 3 Oct 2019 14:40:19 -0300</pubDate>
+      <link>https://drive.google.com/open?export=download&amp;id=1mDyfJnobzSoSAtrMDalEHDN87tDKNX9P</link>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>Aula 02 - Modif - export=view</title>
+      <pubDate>Thu, 3 Oct 2019 14:37:10 -0300</pubDate>
+      <link>https://drive.google.com/uc?export=view&amp;id=1mDyfJnobzSoSAtrMDalEHDN87tDKNX9P</link>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>Aula 01 - Normal - export=download</title>
+      <pubDate>Thu, 3 Oct 2019 14:36:19 -0300</pubDate>
+      <link>https://drive.google.com/uc?export=download&amp;id=1mDyfJnobzSoSAtrMDalEHDN87tDKNX9P</link>
+      <guid isPermaLink="true">https://drive.google.com/uc?export=download&amp;id=1mDyfJnobzSoSAtrMDalEHDN87tDKNX9P</guid>
+      <description><![CDATA[descrição]]></description>
+    </item>
+  </channel>
+</rss>
